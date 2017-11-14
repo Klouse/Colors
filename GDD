@@ -1,0 +1,70 @@
+Title: Color Warriors (working title)\
+V1 Spec
+
+
+-------------------------------------------------------------------
+
+
+Summary:
+Game is no longer colors
+Player is a hero(or heroine) who needs to save the day
+Guarding Pile of gold
+Attackers are coming...
+
+
+-------------------------------------------------------------------
+
+
+Player:
+
+Health: 3
+-Cannot be increased
+-Recover 1HP every 30 rounds
+Holds:
+Sword
+Bow
+Changes appearance to "hold item" used
+
+
+Appearance:
+Short and Squat
+Brown cloak
+Could be interchangeable colors
+
+
+-------------------------------------------------------------------
+
+
+Items:
+
+Bow
+-Permanent
+-Shoot projectile down a lane by tapping
+	Ammo
+	-Starting quantity: 0
+	-Gain by picking up in hallways
+	-Pickup by direct collision
+		Arrow
+		-Speed
+		-Acceleration
+		-Damage
+
+Sword
+-Temporary
+-Pickup by direct collision
+-Do not receive damage while attacking unless enemy wearing armor?
+	Damage
+	AOE: Direct Collison
+	Use: Auto
+	Health
+
+
+Shield
+-Temporary
+	Damage
+	AOE: Direct collision
+	Duration
+	Health
+
+
+------------------------------------------------------------------
